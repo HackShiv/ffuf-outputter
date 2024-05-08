@@ -11,3 +11,6 @@ You can just easily click on the URL from your terminal instead of manually typi
 
 If you find yourself using this, please do star and follow me on github ;)
 
+# Donations ❤️
+<a href="https://www.buymeacoffee.com/hackshiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
