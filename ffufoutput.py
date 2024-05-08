@@ -3,7 +3,7 @@ import json
 CYAN = '\033[96m'
 END_COLOR = '\033[0m'
 
-with open(r'/home/hackershiv/ffuf.json', 'r') as file:
+with open(r'/home/hackershiv/tools/ffuf.json', 'r') as file:
     #json_data = file.read()
     #print(json_data)
     final_data = json.load(file)
